@@ -1,2 +1,2 @@
-# Online
-Official 9oop Server
+# Welcome
+To the official 9oop website
